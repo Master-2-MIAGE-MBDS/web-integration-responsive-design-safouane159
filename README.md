@@ -10,4 +10,4 @@ Ce repository contient deux interfaces mobile (html) Login et ads qui se transfo
 
 les pages 
 
-![This is an image](1.jpeg)
+![This is an image](/1.jpeg)
